@@ -6,7 +6,7 @@
 
 💞️ Je suis ouvert à la collaboration sur des projets open-source qui ont un impact positif sur la société.
 
-📫 Vous pouvez me contacter par e-mail à votre.email@example.com.
+📫 Vous pouvez me contacter par e-mail à hibasoussi.dev@gmail.com.
 
 😄 Pronoms : She/Elle
 
