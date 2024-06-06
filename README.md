@@ -24,8 +24,11 @@ Collaboration efficace avec des équipes multidisciplinaires
 🌟 Projets Réalisés :
 
 -Gestion des tâches: Développement d'une application web de gestion de tâches avec React et Node.js
+
 -E-Commerce : Création d'un site e-commerce utilisant Vue.js et Laravel
+
 -Projet Remax : Mise en place d'une API RESTful sécurisée avec C#/ASP.NET et MongoDB
+
 -Gestion d'inventaire : Conception d'une application de gestion d'inventaire avec Java/Spring Boot et MySQL
 
 Je suis toujours à la recherche de nouveaux défis et d'opportunités pour apprendre et évoluer.
